@@ -13,6 +13,8 @@ Upon further inspection, this doesn't seem to be a problem anymore. The issue us
 Resources
 - https://medium.jonasbandi.net/hosting-multiple-react-applications-on-the-same-document-c887df1a1fcd
 - https://github.com/facebook/create-react-app/pull/5951/files
+- https://reactjs.org/blog/2020/10/20/react-v17.html
+- https://github.com/reactjs/react-gradual-upgrade-demo/
 
 ## Methodology
 
