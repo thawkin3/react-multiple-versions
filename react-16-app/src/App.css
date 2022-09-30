@@ -1,0 +1,23 @@
+.App-16 {
+  text-align: center;
+  margin: 16px;
+  padding: 32px;
+  border: solid 1px #000;
+  border-radius: 4px;
+}
+
+.App-16 h2 {
+  margin-top: 0;
+}
+
+.App-16 .CounterContainer {
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+}
+
+.App-16 .CounterValue {
+  min-width: 80px;
+}
